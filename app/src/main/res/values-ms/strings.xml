@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Faeda</string>
+    <string name="calculate">Kalkulator</string>
+    <string name="car_price">Harga Kereta</string>
+    <string name="down_payment">" bayaran pendahuluan"</string>
+    <string name="input_error">Nilai diperlu</string>
+    <string name="interest">Faedah</string>
+    <string name="interest_rate">Kadar Faedah</string>
+    <string name="loan">Pinjaman</string>
+    <string name="loan_period">Tempoh Pinjaman</string>
+    <string name="monthly_repayment">Pembayaran Bulanan</string>
+    <string name="reset">Reset</string>
+</resources>
